@@ -1,6 +1,6 @@
-/*
-!/.gitignore
-!/dist
-!/dist/**
-!/src
-!/src/**
+node_modules/
+.env
+.history/
+coverage/
+*.log
+.DS_Store
